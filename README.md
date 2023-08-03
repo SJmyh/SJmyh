@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJmyh
-- 👀 I’m interested in GameDev.
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python, SQL.
 - 📫 You can reach me on Telegram @Sjmyh
 
 <!---
